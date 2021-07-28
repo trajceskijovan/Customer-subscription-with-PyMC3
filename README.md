@@ -1,6 +1,9 @@
 # Marketing-campaign-and-customer-subscription-
 Bayesian Logistic Regression with Python and PyMC3 to predict customer subscription for a financial institution.
 
+# Colab link (as the notebook size is over 25MB):
+https://drive.google.com/file/d/1qObgtd-ys-7fXJmkmla9jSqz-3qvpa6A/view?usp=sharing
+
 # Summary:
 Predict whether or not a customer will subscribe a term deposit after the marketing campaign the bank performed.
 
