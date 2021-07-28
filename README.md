@@ -34,8 +34,6 @@ Create a binary classification model that predicts whether or not a customer wil
 
 ![](samples/4.png)
 
-![](samples/5.png)
-
 ![](samples/6.png)
 
 ![](samples/7.png)
